@@ -1,4 +1,5 @@
 import java.util.function.Function;
+//putting random notes n shitijoklkjl
 
 public class ArrayList<Type> implements List<Type> {
     private Function<Integer, Type[]> supplier;
